@@ -21,4 +21,5 @@ A lightweight, CLI-based log analysis tool written in Python that scans logs fil
 ### 1. Run the Script from CLI
 
 ```bash
-python log_parser.py path/to/your/logfile.log -o output.txt
+python log_parser.py logfile.log -o output.txt
+'''' bash
