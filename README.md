@@ -22,4 +22,4 @@ A lightweight, CLI-based log analysis tool written in Python that scans logs fil
 
 ```bash
 python log_parser.py logfile.log -o output.txt
-'''' bash
+
